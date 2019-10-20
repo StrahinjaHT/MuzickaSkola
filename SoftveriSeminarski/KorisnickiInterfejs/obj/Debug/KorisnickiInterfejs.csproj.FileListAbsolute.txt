@@ -1,0 +1,17 @@
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe.config
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.pdb
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\KorisnickiInterfejs\bin\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\KorisnickiInterfejs\bin\Debug\Komunikacija.dll
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\KorisnickiInterfejs\bin\Debug\Biblioteka.dll
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\KorisnickiInterfejs\bin\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\KorisnickiInterfejs\bin\Debug\Komunikacija.pdb
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\KorisnickiInterfejs\bin\Debug\Biblioteka.pdb
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csprojAssemblyReference.cache
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.MeniForma.resources
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.Properties.Resources.resources
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csproj.GenerateResource.cache
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csproj.CoreCompileInputs.cache
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csproj.CopyComplete
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.exe
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.pdb

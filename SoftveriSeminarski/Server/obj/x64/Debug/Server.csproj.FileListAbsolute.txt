@@ -1,0 +1,17 @@
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\Server\bin\x64\Debug\Server.exe.config
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\Server\bin\x64\Debug\Server.exe
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\Server\bin\x64\Debug\Server.pdb
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\Server\bin\x64\Debug\Biblioteka.dll
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\Server\bin\x64\Debug\Sesija.dll
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\Server\bin\x64\Debug\SistemskeOperacije.dll
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\Server\bin\x64\Debug\Biblioteka.pdb
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\Server\bin\x64\Debug\Sesija.pdb
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\Server\bin\x64\Debug\SistemskeOperacije.pdb
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\Server\obj\x64\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\Server\obj\x64\Debug\Server.Form1.resources
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\Server\obj\x64\Debug\Server.Properties.Resources.resources
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\Server\obj\x64\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\Server\obj\x64\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\Server\obj\x64\Debug\Server.csproj.CopyComplete
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\Server\obj\x64\Debug\Server.exe
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\Server\obj\x64\Debug\Server.pdb

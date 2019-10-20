@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{197A20AD-D045-402E-8128-6A0BB3E85E0F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>KorisnickiInterfejs</RootNamespace>
+    <AssemblyName>KorisnickiInterfejs</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MeniForma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MeniForma.Designer.cs">
+      <DependentUpon>MeniForma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PretrazivanjePredavanja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PretrazivanjePredavanja.Designer.cs">
+      <DependentUpon>PretrazivanjePredavanja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PretrazivanjeProfesora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PretrazivanjeProfesora.Designer.cs">
+      <DependentUpon>PretrazivanjeProfesora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PretrazivanjeUcenika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PretrazivanjeUcenika.Designer.cs">
+      <DependentUpon>PretrazivanjeUcenika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrikazPredavanja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrikazPredavanja.Designer.cs">
+      <DependentUpon>PrikazPredavanja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrikazProfesora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrikazProfesora.Designer.cs">
+      <DependentUpon>PrikazProfesora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrikazUcenika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrikazUcenika.Designer.cs">
+      <DependentUpon>PrikazUcenika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UnosPredavanja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UnosPredavanja.Designer.cs">
+      <DependentUpon>UnosPredavanja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UnosProfesora.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UnosProfesora.Designer.cs">
+      <DependentUpon>UnosProfesora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UnosUcenika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UnosUcenika.Designer.cs">
+      <DependentUpon>UnosUcenika.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MeniForma.resx">
+      <DependentUpon>MeniForma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PretrazivanjePredavanja.resx">
+      <DependentUpon>PretrazivanjePredavanja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PretrazivanjeProfesora.resx">
+      <DependentUpon>PretrazivanjeProfesora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PretrazivanjeUcenika.resx">
+      <DependentUpon>PretrazivanjeUcenika.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrikazPredavanja.resx">
+      <DependentUpon>PrikazPredavanja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrikazProfesora.resx">
+      <DependentUpon>PrikazProfesora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrikazUcenika.resx">
+      <DependentUpon>PrikazUcenika.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UnosPredavanja.resx">
+      <DependentUpon>UnosPredavanja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UnosProfesora.resx">
+      <DependentUpon>UnosProfesora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UnosUcenika.resx">
+      <DependentUpon>UnosUcenika.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Biblioteka\Biblioteka.csproj">
+      <Project>{72c8ae77-dce1-4e5a-90da-ac72c7be3015}</Project>
+      <Name>Biblioteka</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\KontrolerKorisnickogInterfejsa\KontrolerKorisnickogInterfejsa.csproj">
+      <Project>{f5024728-0e91-4bde-9c64-12d7722b6353}</Project>
+      <Name>KontrolerKorisnickogInterfejsa</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,5 @@
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\Biblioteka\bin\x64\Debug\Biblioteka.dll
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\Biblioteka\bin\x64\Debug\Biblioteka.pdb
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\Biblioteka\obj\x64\Debug\Biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\Biblioteka\obj\x64\Debug\Biblioteka.dll
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\Biblioteka\obj\x64\Debug\Biblioteka.pdb

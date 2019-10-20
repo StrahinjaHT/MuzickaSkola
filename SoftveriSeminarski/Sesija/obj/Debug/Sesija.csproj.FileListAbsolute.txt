@@ -1,0 +1,9 @@
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\Sesija\bin\Debug\Sesija.dll
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\Sesija\bin\Debug\Sesija.pdb
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\Sesija\bin\Debug\Biblioteka.dll
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\Sesija\bin\Debug\Biblioteka.pdb
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\Sesija\obj\Debug\Sesija.csprojAssemblyReference.cache
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\Sesija\obj\Debug\Sesija.csproj.CoreCompileInputs.cache
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\Sesija\obj\Debug\Sesija.csproj.CopyComplete
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\Sesija\obj\Debug\Sesija.dll
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\Sesija\obj\Debug\Sesija.pdb

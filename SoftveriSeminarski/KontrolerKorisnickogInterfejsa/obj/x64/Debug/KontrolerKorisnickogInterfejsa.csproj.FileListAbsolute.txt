@@ -1,0 +1,11 @@
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\KontrolerKorisnickogInterfejsa\bin\x64\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\KontrolerKorisnickogInterfejsa\bin\x64\Debug\KontrolerKorisnickogInterfejsa.pdb
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\KontrolerKorisnickogInterfejsa\bin\x64\Debug\Biblioteka.dll
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\KontrolerKorisnickogInterfejsa\bin\x64\Debug\Komunikacija.dll
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\KontrolerKorisnickogInterfejsa\bin\x64\Debug\Biblioteka.pdb
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\KontrolerKorisnickogInterfejsa\bin\x64\Debug\Komunikacija.pdb
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\KontrolerKorisnickogInterfejsa\obj\x64\Debug\KontrolerKorisnickogInterfejsa.csprojAssemblyReference.cache
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\KontrolerKorisnickogInterfejsa\obj\x64\Debug\KontrolerKorisnickogInterfejsa.csproj.CoreCompileInputs.cache
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\KontrolerKorisnickogInterfejsa\obj\x64\Debug\KontrolerKorisnickogInterfejsa.csproj.CopyComplete
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\KontrolerKorisnickogInterfejsa\obj\x64\Debug\KontrolerKorisnickogInterfejsa.dll
+C:\Users\Strahinja\Desktop\SoftveriSeminarski\SoftveriSeminarski\KontrolerKorisnickogInterfejsa\obj\x64\Debug\KontrolerKorisnickogInterfejsa.pdb
